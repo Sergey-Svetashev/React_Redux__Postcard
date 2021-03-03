@@ -22,7 +22,7 @@ export default function StepTextTyping() {
       <input type="text"
              className={'step__input'}
              maxLength={70}
-             placeholder={'24 characters maximum'}
+             placeholder={'70 characters maximum'}
              onChange={type}
       />
     </div>
